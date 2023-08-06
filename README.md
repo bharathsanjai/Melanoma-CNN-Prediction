@@ -46,7 +46,6 @@ Write your findings after the model fit, see if the issues are resolved or not?
 
 
 ## References
-Give credit here.
 - This project was inspired by [Images recognition](https://www.tensorflow.org/tutorials/images/classification)
 - [This project was based on [tf libraries](https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory)]
 
