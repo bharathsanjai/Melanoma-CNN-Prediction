@@ -51,4 +51,4 @@ Write your findings after the model fit, see if the issues are resolved or not?
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@bharathsanjai] - feel free to contact me!
