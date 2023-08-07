@@ -56,4 +56,4 @@ Write your findings after the model fit, see if the issues are resolved or not?
 
 
 ## Contact
-Created by [@bharathsanjai] - feel free to contact me!
+Created by [@Bharathveer Kulasekaran] - feel free to contact me!
