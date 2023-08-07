@@ -28,23 +28,15 @@ The data set contains the following diseases:
 
 ## Project pipeline
 
-Data Reading/Data Understanding
-
-Dataset Creation
-
-Dataset visualization
-
-Model Building & training
-
-Choose an appropriate data augmentation strategy to resolve underfitting/overfitting
-
-Model Building & training on the augmented data
-
-Class distribution: Examine the current class distribution in the training dataset
-
-Handling class imbalances
-
-Model Building & training on the rectified class imbalance data
+1. Data Reading/Data Understanding
+2. Dataset Creation
+3. Dataset visualization
+4. Model Building & training
+5. Choose an appropriate data augmentation strategy to resolve underfitting/overfitting
+6. Model Building & training on the augmented data
+7. Class distribution: Examine the current class distribution in the training dataset
+8. Handling class imbalances
+9. Model Building & training on the rectified class imbalance data
 
 
 ## Technologies Used
