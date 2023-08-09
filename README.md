@@ -3,8 +3,8 @@
 ## Table of Contents
 * [Problem statement](#problem-statement)
 * [Dataset](#dataset)
+* [Project pipeline](#project-pipeline)
 * [Technologies Used](#technologies-used)
-* [ Project pipeline](#project-pipeline)
 * [References](#references)
 
 ## Problem statement
