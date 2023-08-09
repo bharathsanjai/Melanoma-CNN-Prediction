@@ -4,6 +4,7 @@
 * [Problem statement](#problem-statement)
 * [Dataset](#dataset)
 * [Technologies Used](#technologies-used)
+* [ Project pipeline](#project-pipeline)
 * [References](#references)
 
 ## Problem statement
